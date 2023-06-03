@@ -25,7 +25,6 @@ export async function loader({params}){
 //action
 export async function action({request, params}){
 
-    console.log(params)
     const formData = await request.formData();
 
     const data = Object.fromEntries(formData);

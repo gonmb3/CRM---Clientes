@@ -29,7 +29,7 @@ const Client = ({ client }) => {
         
          </td>
 
-         <td className="p-6 flex gap-3">
+         <td className="p-6 flex gap-3 items-center">
           {/* update client button */}
             <button
             onClick={() => navigate(`/clientes/${id}/editar`)}
