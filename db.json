@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "Lo de Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "lo de juan",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen00",
+      "email": "karen@gmail.com",
+      "telefono": "138198313",
+      "notas": "karen",
+      "id": 2
+    },
+    {
+      "nombre": "Miguel",
+      "empresa": "Miguel",
+      "email": "miguel@miguel.com",
+      "telefono": "319381983",
+      "notas": "miguel",
+      "id": 4
+    },
+    {
+      "nombre": "Pedro",
+      "empresa": "Pedro",
+      "email": "pedro@pedro.com",
+      "telefono": "1398198938",
+      "notas": "Pedro",
+      "id": 5
+    },
+    {
+      "nombre": "Gonzalo",
+      "empresa": "GZM",
+      "email": "gon.mb3@gmail.com",
+      "telefono": "099 555 66",
+      "notas": "GZM",
+      "id": 6
+    }
+  ]
+}
